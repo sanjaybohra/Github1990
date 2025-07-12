@@ -1,0 +1,7 @@
+C:\Users\XH983ME\Tmp4\learning1990\bin\Publish\learning1990.exe
+C:\Users\XH983ME\Tmp4\learning1990\bin\Publish\appsettings.Development.json
+C:\Users\XH983ME\Tmp4\learning1990\bin\Publish\appsettings.json
+C:\Users\XH983ME\Tmp4\learning1990\bin\Publish\learning1990.dll
+C:\Users\XH983ME\Tmp4\learning1990\bin\Publish\learning1990.deps.json
+C:\Users\XH983ME\Tmp4\learning1990\bin\Publish\learning1990.runtimeconfig.json
+C:\Users\XH983ME\Tmp4\learning1990\bin\Publish\learning1990.pdb
